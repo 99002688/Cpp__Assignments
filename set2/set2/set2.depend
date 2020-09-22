@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600426684 source:c:\users\test\desktop\assignment_s1_s2\set2\set2\main.cpp
+	<iostream>
+	"complex.h"
+	"mytime.h"
+
+1600429298 c:\users\test\desktop\assignment_s1_s2\set2\set2\mytime.h
+
+1600426084 c:\users\test\desktop\assignment_s1_s2\set2\set2\complex.h
+

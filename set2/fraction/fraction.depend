@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600435909 source:c:\users\test\desktop\assignment_s1_s2\set2\fraction\main.cpp
+	<iostream>
+	"fraction.h"
+
+1600435933 c:\users\test\desktop\assignment_s1_s2\set2\fraction\fraction.h
+	<string>
+
