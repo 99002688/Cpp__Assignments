@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1600518662 source:c:\users\test\desktop\assignment_s1_s2\set3\account\main.cpp
+	<iostream>
+	"account.h"
+	"SavingsAccount.h"
+	"CreditAccount.h"
+
+1600518678 c:\users\test\desktop\assignment_s1_s2\set3\account\account.h
+	<string>
+
+1600516547 c:\users\test\desktop\assignment_s1_s2\set3\account\savingsaccount.h
+	<string>
+	"account.h"
+
+1600517465 c:\users\test\desktop\assignment_s1_s2\set3\account\creditaccount.h
+	<string>
+	"account.h"
+
+1600474450 source:c:\users\shraw\desktop\set3-20200920t123059z-001\set3\account\main.cpp
+	<iostream>
+	<string.h>
+	"account.h"
+	"SavingsAccount.h"
+	"CreditAccount.h"
+
+1600473678 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\account\account.h
+	<string>
+
+1600471546 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\account\savingsaccount.h
+	<string>
+	"account.h"
+
+1600472464 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\account\creditaccount.h
+	<string>
+	"account.h"
+
